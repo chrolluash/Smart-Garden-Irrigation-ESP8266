@@ -108,7 +108,6 @@ It also supports manual pump control through Blynk, making it suitable for small
  
 - Enhanced automation of mini farms or garden 
 - Academic and capstone IoT projects
--   
 
 ---
 
