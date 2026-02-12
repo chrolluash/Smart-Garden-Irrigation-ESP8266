@@ -8,9 +8,10 @@
 #include <DHT.h>
 
 char auth[] = BLYNK_AUTH_TOKEN;
-//Inte
+//Your internet SSID
 char ssid[] = "";
-char pass[] = "PLDTWIFI61EIS";
+//Your internet password
+char pass[] = "";
 
 BlynkTimer timer;
 
