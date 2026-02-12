@@ -42,10 +42,9 @@ It also supports manual pump control through Blynk, making it suitable for small
 - PIR Motion Sensor  
 - Water Level Sensor  
 - Relay Module  
-- Water Pump  
-- Motor Driver (L298N or equivalent)  
+- Water Pump   
 - Jumper wires
-- Recycled power plug 
+- Recycled Power Cable
 
 ---
 
