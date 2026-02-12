@@ -8,7 +8,8 @@
 #include <DHT.h>
 
 char auth[] = BLYNK_AUTH_TOKEN;
-char ssid[] = "PLDTHOMEFIBR1FCB9";
+//Inte
+char ssid[] = "";
 char pass[] = "PLDTWIFI61EIS";
 
 BlynkTimer timer;
